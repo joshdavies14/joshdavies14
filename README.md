@@ -6,6 +6,8 @@ I'm Josh and I'm a first year BSc Computer Science undergradurate student at Uni
 
 🔭 I’m currently working on various coursework bits
 
+💬 AI'm probably going to start blogging here: https://joshdavies14.github.io/
+
 😄 Pronouns: he/him
 
 <!--
