@@ -2,13 +2,13 @@
 
 I'm Josh and I'm a first year BSc Computer Science undergradurate student at University of Warwick! Occasionally I code in my free time, but to be honest I do so much of it for my degree I might as well just class that as my free time!
 
-🌱 I’m currently learning Java & C
+🌱 I’m currently learning Java & Haskell
 
-🔭 I’m currently working on various coursework bits
+🔭 I’m currently working on various coursework bits & Semlink, a project to connect course mates together virtually
 
-💬 I'm probably going to start blogging here soon: https://joshdavies.tech/
+💬 You can learn more about me and check out my blog here: https://joshdavies.tech/
 
-😄 Pronouns: he/him
+😄 Pronouns: he/they
 
 <!--
 **joshdavies14/joshdavies14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
