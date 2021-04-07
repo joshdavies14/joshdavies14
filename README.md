@@ -4,7 +4,7 @@ I'm Josh and I'm a first year BSc Computer Science undergradurate student at Uni
 
 🌱 I’m currently learning Java & Haskell
 
-🔭 I’m currently working on various coursework bits & Semlink, a project to connect course mates together virtually
+🔭 I’m currently working on various coursework bits & some themes for various IDEs (mainly VSCode and IntelliJ)
 
 💬 You can learn more about me and check out my blog here: https://joshdavies.tech/
 
