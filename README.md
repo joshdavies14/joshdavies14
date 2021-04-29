@@ -2,11 +2,11 @@
 
 I'm Josh and I'm a first year BSc Computer Science undergradurate student at University of Warwick! Occasionally I code in my free time, but to be honest I do so much of it for my degree I might as well just class that as my free time!
 
-🌱 I’m currently learning Java & Haskell
+🌱 I’m currently learning Java & Haskell (and revising for exams!)
 
-🔭 I’m currently working on various coursework bits & some themes for various IDEs (mainly VSCode and IntelliJ)
+🔭 I’m currently working on redesigning our [Computing Society website](https://github.com/joshdavies14/uwcs-dextre)
 
-💬 You can learn more about me and check out my blog here: https://joshdavies.tech/
+💬 You can learn more about me [here](https://poly.work/josh) and check out my blog [here](https://joshdavies.tech/)
 
 😄 Pronouns: he/they
 
