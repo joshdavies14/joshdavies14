@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-I'm Josh and I'm a first year BSc Computer Science undergradurate student at University of Warwick! Occasionally I code in my free time, but to be honest I do so much of it for my degree I might as well just class that as my free time!
+I'm Josh and I'm a second year BSc Computer Science undergradurate student at University of Warwick.
 
-🌱 I’m currently learning Java & Haskell (and revising for exams!)
+🌱 I’m currently experimenting with Kotlin and Scala
 
-🔭 I’m currently working on redesigning our [Computing Society website](https://github.com/joshdavies14/uwcs-dextre)
+🔭 I’m currently completing an internship with my university's Software Engineering team
 
-💬 You can learn more about me [here](https://poly.work/josh) and check out my blog [here](https://joshdavies.tech/)
+💬 You can learn more about me [here](https://poly.work/josh)
 
 😄 Pronouns: he/they
 
