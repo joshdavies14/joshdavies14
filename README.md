@@ -2,11 +2,11 @@
 
 I'm Josh and I'm a second year BSc Computer Science undergradurate student at University of Warwick.
 
-🌱 I’m currently experimenting with Kotlin and Scala
+<!-- 🌱 I’m currently experimenting with Kotlin and Scala
 
-🔭 I’m currently completing an internship with my university's Software Engineering team
+🔭 I’m currently work part time in the Software Engineering team at the University of Warwick -->
 
-💬 You can learn more about me [here](https://poly.work/josh)
+<!--💬 You can learn more about me [here](https://poly.work/josh)-->
 
 😄 Pronouns: he/they
 
