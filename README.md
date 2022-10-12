@@ -12,7 +12,7 @@ Previously I completed an internship as a Software Engineer at [University of Wa
 
 ### 📔 University Life
 
-Currently, I am the Team Captain of Warwick Latin & Ballroom. Previously I was the President of [University of Warwick Computing Society](https://uwcs.co.uk), and also worked on our [website](https://github.com/UWCS/uwcs-dextre) alongisde other [tools for our members](https://github.com/UWCS).
+Currently, I am the Team Captain of Warwick Latin & Ballroom. Previously I was the President of [University of Warwick Computing Society](https://uwcs.co.uk), and also worked on our [website](https://github.com/UWCS/uwcs-dextre) alongside other [tools for our members](https://github.com/UWCS).
 
 <!-- 🌱 I’m currently experimenting with Kotlin and Scala
 
