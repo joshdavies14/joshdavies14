@@ -12,7 +12,9 @@ Previously I completed an internship as a Software Engineer at [University of Wa
 
 ### 📔 University Life
 
-Currently, I am the Team Captain of Warwick Latin & Ballroom. Previously I was the President of [University of Warwick Computing Society](https://uwcs.co.uk), and also worked on our [website](https://github.com/UWCS/uwcs-dextre) alongside other [tools for our members](https://github.com/UWCS).
+Since April 2023, I am President of Warwick Latin & Ballroom, having been the Team Captain prior. In the past year of being on Latin & Ballroom exec, I worked on an example [new website](https://github.com/joshdavies14/warwicklnb-website) for the club, as long as introducing [competition bingo](https://github.com/joshdavies14/lnb-comp-bingo) and [tour bingo](https://github.com/joshdavies14/lnb-tour-bingo) throughout the year.
+
+Previously I was the President of [University of Warwick Computing Society](https://uwcs.co.uk), and also worked on our [website](https://github.com/UWCS/uwcs-dextre) alongside other [tools for our members](https://github.com/UWCS).
 
 <!--
 **joshdavies14/joshdavies14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
